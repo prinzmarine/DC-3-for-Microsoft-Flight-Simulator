@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @prinzmarine
-- 👀 I’m interested in aircraft and the avaition industry
-- 🌱 I’m currently learning blender, languages, MSFS2020 SDK.
-- 💞️ I’m looking to collaborate on creating aircraft for msfs2020.
-- 📫 How to reach me at panzer501st@gmail.com
+- Hi, I’m @prinzmarine
+- I’m interested in aircraft and the avaition industry and latly decided I am going to try and make a freeware DC-3 for MSFS2020.
 
 <!---
 prinzmarine/prinzmarine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
